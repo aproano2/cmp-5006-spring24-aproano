@@ -20,5 +20,7 @@ https://ethicalhacs.com/dvwa-reflected-xss-exploit/
 
 ## 3. File upload
 
-Use the following tutorial to practice file upload vulnerabilities. 
+Use the following tutorial to practice file upload vulnerabilities
+
+https://ethicalhacs.com/dvwa-file-upload/
 
